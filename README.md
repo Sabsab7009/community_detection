@@ -27,8 +27,3 @@ Collaborative work by:
   - Hyperparameter tuning and comparisons to state-of-the-art
 - `reports/` — Full research report with methodology and results
 
-
-
-Takes 15 minutes.
-Then: sleep. Write the letter fresh tomorrow morning. Send it.
-You'll have done solid work tonight (two GitHub repos organized) and be ready to finish the application cleanly in the morning.Haiku 4.5 Extended
